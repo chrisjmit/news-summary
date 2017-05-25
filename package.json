@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "guardian-js": "^1.0.8",
     "jasmine": "^2.6.0"
   },
   "devDependencies": {},
